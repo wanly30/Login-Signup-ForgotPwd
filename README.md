@@ -1,2 +1,2 @@
 # Login-Signup-ForgotPwd
-A module implement with parse.
+A module implemented with parse.
